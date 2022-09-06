@@ -1,0 +1,1 @@
+proxychains_win32_x64.exe -f proxychains.conf NBMiner_Win\nbminer.exe -a kawpow -o stratum+tcp://stratum-ravencoin.flypool.org:3333 --pl 130 -u  RBvEd2Q4R8vC7yKLXtAj6CMzDRsExnW2id.RGS-200
